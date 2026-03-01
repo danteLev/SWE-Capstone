@@ -1,2 +1,2 @@
 # SWE-Capstone
-424 capstone app vacation tracker
+This is the APK File for the Vacation Planner App 
